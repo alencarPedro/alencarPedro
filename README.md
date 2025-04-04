@@ -8,7 +8,14 @@ Turning ideas into fast, scalable digital solutions. I’ve cut load times from 
 
 Let’s build something impactful—open to innovative projects!
 
-<p align="left"> <a href="https://github.com/alencarPedro?tab=repositories&sort=stargazers"> <img alt="Total of stars" title="Total Github stars" src="https://custom-icon-badges.demolab.com/github/stars/alencarPedro?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars" /> </a> <a href="https://github.com/alencarPedro?tab=followers"> <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/alencarPedro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white" /> </a> </p>
+<p align="left"> 
+	<a href="https://github.com/alencarPedro?tab=repositories&sort=stargazers"> 
+		<img alt="Total of stars" title="Total Github stars" src="https://custom-icon-badges.demolab.com/github/stars/alencarPedro?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"/> 
+	</a> 
+	<a href="https://github.com/alencarPedro?tab=followers"> 
+		<img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/alencarPedro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"/> 
+	</a> 
+</p>
 
 ---
 
@@ -127,18 +134,23 @@ Let’s build something impactful—open to innovative projects!
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg"
 />
           
-
 <br/>
 <br/>
 
 ### 📊 Statistics
 
-<p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=alencarPedro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
+<p> 
 <img 
-align="left" 
-alt="GitHub Stats" 
-height="200" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=alencarPedro&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=alencarPedro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
 />
-
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alencarPedro&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+/>
 </p>
