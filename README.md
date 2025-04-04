@@ -116,8 +116,9 @@ Let’s build something impactful—open to innovative projects!
     title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg"
 />
+          
 
 <br/>
 <br/>
