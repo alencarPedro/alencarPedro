@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Pedro Alencar
 
-**`Fullstack Developer`**
+**`Frontend Developer`**
 
 React & TypeScript Specialist
 
